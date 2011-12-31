@@ -1,0 +1,2 @@
+Run "make" in each question directory and then upload the program to the micro via uisp
+For q2, make sure your JTAGEN fuse is disabled.  The fuses can be written to via uisp
